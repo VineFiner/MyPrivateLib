@@ -1,0 +1,7 @@
+MyPrivateLib.xcodeproj/xcuserdata/
+MyPrivateLib.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+MyPrivateLib.xcodeproj/project.xcworkspace/xcuserdata/
